@@ -1,0 +1,15 @@
+# Ghidra Function ID dataset repository
+
+These Function ID datasets were generated via:
+
+- <https://github.com/threatrack/ghidra-fid-generator>
+- using a manual selection of interesting libraries
+
+**Feel free report any issues and suggest libraries (including non Linux ones) for
+inclusion in this repository.**
+
+## Libraries
+
+The following libraries are included in the datasets:
+
+
