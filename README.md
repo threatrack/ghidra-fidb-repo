@@ -5,13 +5,35 @@ These Function ID datasets were generated via:
 - <https://github.com/threatrack/ghidra-fid-generator>
 - using a manual selection of interesting libraries
 
-**Feel free report any issues and suggest libraries (including non Linux ones) for
+**Feel free to report any issues and suggest libraries (including non Linux ones) for
 inclusion in this repository.**
 
 ## Libraries
 
 The following libraries are included in the datasets:
 
+
+### el6.i686.fidb
+
+- `boost-static/1.41.0/28.el6.i686`
+- `glibc-static/2.12/1.212.el6.i686`
+- `lua-static/5.1.4/4.1.el6.i686`
+- `openssl-static/1.0.1e/57.el6.i686`
+- `openssl-static/1.0.1e/58.el6_10.i686`
+- `zlib-static/1.2.3/29.el6.i686`
+
+Total entries: 21612
+
+### el6.x86_64.fidb
+
+- `boost-static/1.41.0/28.el6.x86_64`
+- `glibc-static/2.12/1.212.el6.x86_64`
+- `lua-static/5.1.4/4.1.el6.x86_64`
+- `openssl-static/1.0.1e/57.el6.x86_64`
+- `openssl-static/1.0.1e/58.el6_10.x86_64`
+- `zlib-static/1.2.3/29.el6.x86_64`
+
+Total entries: 16912
 
 ### el7.i686.fidb
 
