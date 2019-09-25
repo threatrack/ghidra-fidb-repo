@@ -10,6 +10,13 @@ inclusion in this repository.**
 
 ## Libraries
 
+### Sources
+
+- `el{6,7}`: <http://mirror.centos.org/centos/>
+- `teskalabs`: <https://teskalabs.com/blog/openssl-binary-distribution-for-developers-static-library>
+
+### Content
+
 The following libraries are included in the datasets:
 
 
@@ -73,4 +80,55 @@ Total entries: 53823
 - `zlib-static/1.2.7/18.el7.x86_64`
 
 Total entries: 57966
+
+### teskalabs-AARCH64.LE.64.v8A.fidb
+
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+
+Total entries: 7368
+
+### teskalabs-ARM.LE.32.v8.fidb
+
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+
+Total entries: 12778
+
+### teskalabs-ARM.LE.32.v8T.fidb
+
+- `openssl-dev/1.0.2l/arm-wp81-msvc2015`
+
+Total entries: 5423
+
+### teskalabs-MIPS.LE.32.default.fidb
+
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+
+Total entries: 9268
+
+### teskalabs-MIPS.LE.64.R6.fidb
+
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+
+Total entries: 9427
+
+### teskalabs-x86.LE.32.default.fidb
+
+- `openssl-dev/1.0.2l/x86-win-msvc2013`
+- `openssl-dev/1.0.2l/x86-wp81-msvc2015`
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+
+Total entries: 18557
+
+### teskalabs-x86.LE.64.default.fidb
+
+- `openssl-dev/1.0.2n/android`
+- `openssl-dev/1.0.2o/android`
+- `openssl-dev/1.0.2s/x86_64-win-mingw-w64`
+
+Total entries: 10603
 

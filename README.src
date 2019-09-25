@@ -10,6 +10,13 @@ inclusion in this repository.**
 
 ## Libraries
 
+### Sources
+
+- `el{6,7}`: <http://mirror.centos.org/centos/>
+- `teskalabs`: <https://teskalabs.com/blog/openssl-binary-distribution-for-developers-static-library>
+
+### Content
+
 The following libraries are included in the datasets:
 
 
