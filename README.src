@@ -13,6 +13,8 @@ inclusion in this repository.**
 ### Sources
 
 - `el{6,7}`: <http://mirror.centos.org/centos/>
+- `ubuntu`: <http://de.archive.ubuntu.com/ubuntu/pool/main/>
+- `gcc`: from `el{6,7}` and `ubuntu`
 - `teskalabs`: <https://teskalabs.com/blog/openssl-binary-distribution-for-developers-static-library>
 
 ### Content
