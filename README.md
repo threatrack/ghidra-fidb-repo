@@ -234,6 +234,22 @@ Total entries: 36257
 
 Total entries: 43016
 
+### qt5-el7-x86.LE.32.default.fidb
+
+- `qt5-qtbase-static/5.9.7/2.el7.i686`
+- `qt5-qtdeclarative-static/5.9.7/1.el7.i686`
+- `qt5-qttools-static/5.9.7/1.el7.i686`
+
+Total entries: 9452
+
+### qt5-el7-x86.LE.64.default.fidb
+
+- `qt5-qtbase-static/5.9.7/2.el7.x86_64`
+- `qt5-qtdeclarative-static/5.9.7/1.el7.x86_64`
+- `qt5-qttools-static/5.9.7/1.el7.x86_64`
+
+Total entries: 8645
+
 ### teskalabs-AARCH64.LE.64.v8A.fidb
 
 - `openssl-dev/1.0.2n/android`
