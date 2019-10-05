@@ -250,6 +250,20 @@ Total entries: 9452
 
 Total entries: 8645
 
+### SDL-el-x86.LE.32.default.fidb
+
+- `SDL-static/1.2.14/7.el6_7.1.i686`
+- `SDL-static/1.2.15/14.el7.i686`
+
+Total entries: 1797
+
+### SDL-el-x86.LE.64.default.fidb
+
+- `SDL-static/1.2.14/7.el6_7.1.x86_64`
+- `SDL-static/1.2.15/14.el7.x86_64`
+
+Total entries: 1527
+
 ### teskalabs-AARCH64.LE.64.v8A.fidb
 
 - `openssl-dev/1.0.2n/android`
