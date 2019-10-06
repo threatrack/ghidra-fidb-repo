@@ -16,6 +16,12 @@ inclusion in this repository.**
 - `ubuntu`: <http://de.archive.ubuntu.com/ubuntu/pool/main/>
 - `gcc`: from `el{6,7}` and `ubuntu`
 - `teskalabs`: <https://teskalabs.com/blog/openssl-binary-distribution-for-developers-static-library>
+- `libsodium`: <https://download.libsodium.org/libsodium/releases/>
+- `sigmoid`: openssl libraries from <https://www.npcglib.org/~stathis/downloads/>
+
+### Issues
+
+- libsodium: Not all files parsed correctly. So it may miss some functions. But the majority of the functions are included. (Issue: `Program has different compiler spec than already established`)
 
 ### Content
 
@@ -233,6 +239,24 @@ Total entries: 36257
 - `mingw64-gcc-objc/4.9.3/1.el7.x86_64`
 
 Total entries: 43016
+
+### libsodium-x86.LE.32.default.fidb
+
+- `libsodium/1.0.17/stable-mingw`
+- `libsodium/1.0.17/stable-msvc`
+- `libsodium/1.0.18/stable-mingw`
+- `libsodium/1.0.18/stable-msvc`
+
+Total entries: 7546
+
+### libsodium-x86.LE.64.default.fidb
+
+- `libsodium/1.0.17/stable-mingw`
+- `libsodium/1.0.17/stable-msvc`
+- `libsodium/1.0.18/stable-mingw`
+- `libsodium/1.0.18/stable-msvc`
+
+Total entries: 5882
 
 ### qt5-el7-x86.LE.32.default.fidb
 
