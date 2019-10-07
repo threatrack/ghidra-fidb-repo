@@ -21,7 +21,7 @@ inclusion in this repository.**
 
 ### Issues
 
-- libsodium: Not all files parsed correctly. So it may miss some functions. But the majority of the functions are included. (Issue: `Program has different compiler spec than already established`)
+- libsodium: Not all files parsed correctly. So it may miss some functions. But the majority of the functions are included. (Issue: `The AutoImporter could not successfully load...`)
 
 ### Content
 

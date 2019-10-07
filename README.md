@@ -21,7 +21,7 @@ inclusion in this repository.**
 
 ### Issues
 
-- libsodium: Not all files parsed correctly. So it may miss some functions. But the majority of the functions are included. (Issue: `Program has different compiler spec than already established`)
+- libsodium: Not all files parsed correctly. So it may miss some functions. But the majority of the functions are included. (Issue: `The AutoImporter could not successfully load...`)
 
 ### Content
 
@@ -287,6 +287,26 @@ Total entries: 1797
 - `SDL-static/1.2.15/14.el7.x86_64`
 
 Total entries: 1527
+
+### sigmoid-openssl-1.0.1u-x86.LE.32.default.fidb
+
+- `openssl/1.0.1u/vs2008`
+- `openssl/1.0.1u/vs2010`
+- `openssl/1.0.1u/vs2012`
+- `openssl/1.0.1u/vs2013`
+- `openssl/1.0.1u/vs2015`
+
+Total entries: 52232
+
+### sigmoid-openssl-1.0.1u-x86.LE.64.default.fidb
+
+- `openssl/1.0.1u/vs2008`
+- `openssl/1.0.1u/vs2010`
+- `openssl/1.0.1u/vs2012`
+- `openssl/1.0.1u/vs2013`
+- `openssl/1.0.1u/vs2015`
+
+Total entries: 43849
 
 ### teskalabs-AARCH64.LE.64.v8A.fidb
 
