@@ -308,6 +308,50 @@ Total entries: 52232
 
 Total entries: 43849
 
+### sigmoid-openssl-1.0.2l-x86.LE.32.default.fidb
+
+- `openssl/1.0.2l/vs2008`
+- `openssl/1.0.2l/vs2010`
+- `openssl/1.0.2l/vs2012`
+- `openssl/1.0.2l/vs2013`
+- `openssl/1.0.2l/vs2015`
+- `openssl/1.0.2l/vs2017`
+
+Total entries: 65616
+
+### sigmoid-openssl-1.0.2l-x86.LE.64.default.fidb
+
+- `openssl/1.0.2l/vs2008`
+- `openssl/1.0.2l/vs2010`
+- `openssl/1.0.2l/vs2012`
+- `openssl/1.0.2l/vs2013`
+- `openssl/1.0.2l/vs2015`
+- `openssl/1.0.2l/vs2017`
+
+Total entries: 55041
+
+### sigmoid-openssl-1.1.0f-x86.LE.32.default.fidb
+
+- `openssl/1.1.0f/vs2008`
+- `openssl/1.1.0f/vs2010`
+- `openssl/1.1.0f/vs2012`
+- `openssl/1.1.0f/vs2013`
+- `openssl/1.1.0f/vs2015`
+- `openssl/1.1.0f/vs2017`
+
+Total entries: 74814
+
+### sigmoid-openssl-1.1.0f-x86.LE.64.default.fidb
+
+- `openssl/1.1.0f/vs2008`
+- `openssl/1.1.0f/vs2010`
+- `openssl/1.1.0f/vs2012`
+- `openssl/1.1.0f/vs2013`
+- `openssl/1.1.0f/vs2015`
+- `openssl/1.1.0f/vs2017`
+
+Total entries: 62349
+
 ### teskalabs-AARCH64.LE.64.v8A.fidb
 
 - `openssl-dev/1.0.2n/android`
