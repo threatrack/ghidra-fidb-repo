@@ -240,6 +240,41 @@ Total entries: 36257
 
 Total entries: 43016
 
+### libc-68000.BE.32.Coldfire.fidb
+
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 3733
+
+### libc-AARCH64.LE.64.v8A.fidb
+
+- `glibc-static/2.28/42.el8.1arch64`
+- `libc6-dev-arm64/cross_2.23/0ubuntu3cross1_all`
+- `libc6-dev-arm64/cross_2.27/3ubuntu1cross1.1_all`
+- `libc6-dev-arm64/cross_2.28/0ubuntu1cross1_all`
+- `libc6-dev-arm64/cross_2.29/0ubuntu2cross1_all`
+- `libc6-dev-arm64/cross_2.30/0ubuntu1cross2_all`
+
+Total entries: 22288
+
+### libc-ARM.LE.32.v8.fidb
+
+- `libc6-dev-armhf/cross_2.23/0ubuntu3cross1_all`
+- `libc6-dev-armhf/cross_2.27/3ubuntu1cross1.1_all`
+- `libc6-dev-armhf/cross_2.28/0ubuntu1cross1_all`
+- `libc6-dev-armhf/cross_2.29/0ubuntu2cross1_all`
+- `libc6-dev-armhf/cross_2.30/0ubuntu1cross2_all`
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 22664
+
+### libc-avr8.LE.16.extended.fidb
+
+- `avr-libc/1.8.1/bin`
+- `avr-libc/2.0.0/bin`
+
+Total entries: 3693
+
 ### libsodium-x86.LE.32.default.fidb
 
 - `libsodium/1.0.17/stable-mingw`
