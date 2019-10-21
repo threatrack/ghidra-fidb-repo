@@ -275,6 +275,81 @@ Total entries: 22664
 
 Total entries: 3693
 
+### libc-MIPS.BE.32.default.fidb
+
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 3905
+
+### libc-MIPS.LE.32.default.fidb
+
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 3806
+
+### libc-PowerPC.BE.32.default.fidb
+
+- `libc6-dev-powerpc/cross_2.23/0ubuntu3cross1_all`
+- `libc6-dev-powerpc/cross_2.27/3ubuntu1cross1.1_all`
+- `libc6-dev-powerpc/cross_2.28/0ubuntu1cross1_all`
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 18408
+
+### libc-PowerPC.LE.64.A2ALT.fidb
+
+- `glibc-static/2.28/42.el8.1.ppc64le`
+- `libc6-dev-ppc64el/cross_2.23/0ubuntu3cross1_all`
+- `libc6-dev-ppc64el/cross_2.27/3ubuntu1cross1.1_all`
+- `libc6-dev-ppc64el/cross_2.28/0ubuntu1cross1_all`
+- `libc6-dev-ppc64el/cross_2.29/0ubuntu2cross1_all`
+- `libc6-dev-ppc64el/cross_2.30/0ubuntu1cross2_all`
+
+Total entries: 24559
+
+### libc-sparc.BE.32.default.fidb
+
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 3398
+
+### libc-SuperH4.LE.32.default.fidb
+
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 3777
+
+### libc-x86.LE.32.default.fidb
+
+- `glibc-static/2.12/1.212.el6.i686`
+- `glibc-static/2.17/292.el7.i686`
+- `glibc-static/2.28/42.el8.1.i686`
+- `libc6-dev/i386_2.23/0ubuntu11_amd64`
+- `libc6-dev/i386_2.23/0ubuntu3_amd64`
+- `libc6-dev/i386_2.27/3ubuntu1_amd64`
+- `libc6-dev/i386_2.28/0ubuntu1_amd64`
+- `libc6-dev/i386_2.29/0ubuntu2_amd64`
+- `libc6-dev/i386_2.30/0ubuntu2_amd64`
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 44192
+
+### libc-x86.LE.64.default.fidb
+
+- `glibc-static/2.12/1.212.el6.x86_64`
+- `glibc-static/2.17/292.el7.x86_64`
+- `glibc-static/2.28/42.el8_0.1.x86_64`
+- `glibc-static/2.28/42.el8.1.x86_64`
+- `libc6-dev/amd64_2.23/0ubuntu11_i386`
+- `libc6-dev/amd64_2.23/0ubuntu3_i386`
+- `libc6-dev/amd64_2.27/3ubuntu1_i386`
+- `libc6-dev/amd64_2.28/0ubuntu1_i386`
+- `libc6-dev/amd64_2.29/0ubuntu2_i386`
+- `libc6-dev/amd64_2.30/0ubuntu2_i386`
+- `uclibc/0.9.30.1/binaries`
+
+Total entries: 44776
+
 ### libsodium-x86.LE.32.default.fidb
 
 - `libsodium/1.0.17/stable-mingw`
