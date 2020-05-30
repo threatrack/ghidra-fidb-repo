@@ -8,6 +8,16 @@ These Function ID datasets were generated via:
 **Feel free to report any issues and suggest libraries (including non Linux ones) for
 inclusion in this repository.**
 
+## Usage / Installation
+
+There are currently several ways to use these:
+
+- You can import individual Function ID Databases via `Tools -> FunctionID -> Attach existing FidDB...`.
+- You can copy the packed FunctionID Database file (`*.fidb`) to `~/git/ghidra.bin/Ghidra/Features/FunctionID/src/main/fidb` (assuming your ghidra source repository is in `~/git/ghidra`). Now when building Ghidra from source it will pull in the files into your `git/ghidra/build/dist/ghidra_9.2_DEV_20200530_linux64.zip` file.
+- Download the [pre-unpacked fidbf files](https://github.com/threatrack/ghidra-fidb-repo/releases/download/20200530/ghidra-fidb-repo_20200530.zip) and copy them to `$GHIDRA_HOME/Ghidra/Features/FunctionID/data/`. (Same as above, but without having to build Ghidra yourself.)
+
+- *Buggy(?) way*: According to [ghidra-data/FID.md](https://github.com/NationalSecurityAgency/ghidra-data/blob/master/FunctionID/FID.md) it should be possible to copy the packed, i.e., `*.fidb` files, to ` , see [this issue](https://github.com/NationalSecurityAgency/ghidra/issues/1007#issuecomment-636321122)
+
 ## Libraries
 
 ### Sources
@@ -26,7 +36,6 @@ inclusion in this repository.**
 ### Content
 
 The following libraries are included in the datasets:
-
 
 ### el6.i686.fidb
 
@@ -512,4 +521,5 @@ Total entries: 18557
 - `openssl-dev/1.0.2s/x86_64-win-mingw-w64`
 
 Total entries: 10603
+
 
